@@ -1,3 +1,4 @@
+<p align="center"><img src="http://mar.imghost.us/JuWl.png"/></p>
 TU/e. Software Construction
 ==========================
 
@@ -26,4 +27,4 @@ Course outline:
  * Contracts
  * Coding Standard
 
-<p align="center"><img src="http://mar.imghost.us/JuWl.png"/></p>
+
