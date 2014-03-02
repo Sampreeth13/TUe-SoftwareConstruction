@@ -25,3 +25,5 @@ Course outline:
  * Exceptions and Errors
  * Contracts
  * Coding Standard
+
+<p align="center"><img src="http://mar.imghost.us/JuWl.png"/></p>
