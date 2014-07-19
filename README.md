@@ -1,4 +1,3 @@
-<p align="center"><img src="http://mar.imghost.us/JuWl.png"/></p>
 TU/e. Software Construction
 ==========================
 
